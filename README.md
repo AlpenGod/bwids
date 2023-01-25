@@ -12,9 +12,13 @@ It is recommended to use the script on the interface with monitoring mode enable
 Sudo privileges are required.
 
 # Installation  
-```git clone https://github.com/AlpenGod/bwids  
+```
+git clone https://github.com/AlpenGod/bwids  
 cd bwids  
-sudo pip3 install -r requirements.txt```
+sudo pip3 install -r requirements.txt
+```
 
 # Usage  
-```sudo python3 bwids.py --iface IFACE --router_mac ROUTER_MAC```
+```
+sudo python3 bwids.py --iface IFACE --router_mac ROUTER_MAC
+```
